@@ -1,0 +1,36 @@
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\MainWindow.g.cs
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\App.g.cs
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda_Content.g.cs
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda_MarkupCompile.cache
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda_MarkupCompile.lref
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\bin\Debug\Agenda.exe
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\bin\Debug\Agenda.pdb
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\bin\Debug\EntityFramework.dll
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\bin\Debug\EntityFramework.xml
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\MainWindow.baml
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda.g.resources
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda.exe
+C:\Users\msilv\Documents\Visual Studio 2015\Projects\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda.pdb
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\bin\Debug\Agenda.exe
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\bin\Debug\Agenda.pdb
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\bin\Debug\EntityFramework.dll
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\bin\Debug\MySql.Data.dll
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\bin\Debug\EntityFramework.xml
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\bin\Debug\MySql.Data.xml
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\MainWindow.g.cs
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\App.g.cs
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda_Content.g.cs
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda_MarkupCompile.cache
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda_MarkupCompile.lref
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\MainWindow.baml
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda.g.resources
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda.exe
+C:\Users\Lucas\Desktop\AgendaWPF\Agenda_CRUD_Entity\Agenda\obj\Debug\Agenda.pdb
